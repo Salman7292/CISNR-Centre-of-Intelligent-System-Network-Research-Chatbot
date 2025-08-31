@@ -1,9 +1,11 @@
 
 # CISNR (Centre of Intelligent System & Network Research) Chatbot
 
-![CISNR Chatbot](https://raw.githubusercontent.com/Salman7292/CISNR-Chatbot/main/screenshots/screenshot1.png)
-![CISNR Chatbot](https://raw.githubusercontent.com/Salman7292/CISNR-Chatbot/main/screenshots/screenshot2.png)
-![CISNR Chatbot](https://raw.githubusercontent.com/Salman7292/CISNR-Chatbot/main/screenshots/screenshot3.png)
+![CISNR Chatbot](https://raw.githubusercontent.com/Salman7292/CISNR-Centre-of-Intelligent-System-Network-Research-Chatbot/refs/heads/main/interface/Screenshot%202025-09-01%20025943.png)
+![CISNR Chatbot](https://raw.githubusercontent.com/Salman7292/CISNR-Centre-of-Intelligent-System-Network-Research-Chatbot/refs/heads/main/interface/Screenshot%202025-09-01%20030351.png)
+![CISNR Chatbot](https://raw.githubusercontent.com/Salman7292/CISNR-Centre-of-Intelligent-System-Network-Research-Chatbot/refs/heads/main/interface/Screenshot%202025-09-01%20025748.png)
+![CISNR Chatbot](https://raw.githubusercontent.com/Salman7292/CISNR-Centre-of-Intelligent-System-Network-Research-Chatbot/refs/heads/main/interface/Screenshot%202025-09-01%20025709.png)
+
 
 An AI-powered chatbot designed for the **Centre of Intelligent System & Network Research (CISNR)**.  
 It leverages advanced **LangChain + Gemini AI + Pinecone** to provide intelligent responses, retrieve organizational knowledge, and assist users with queries about CISNR’s services and research activities.
